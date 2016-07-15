@@ -14,6 +14,7 @@
 
 		<!-- Main content here -->
 		<main>
+			<img src="images/hole-in-one.jpg" alt="hole-in-one" width="300" height="400" />
 			<!-- List of Interests -->
 			<h2 style="font-family:Impact">Interests</h2>
 			<ul style="font-family:Arial">
@@ -41,8 +42,8 @@
 				<li>Dallas, TX</li>
 				<li>Rosarito, Mexico</li>
 				<li>Napa, CA</li>
-				<img src="images/rosarito.jpg" alt="rosarito" width="750" height="563" />
 			</ul>
+			<img src="images/rosarito.jpg" alt="rosarito" width="750" height="563" />
 		</main>
 	</body>
 </html>
