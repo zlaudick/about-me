@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 
 		<!--Favicon-->
-		<link type="image/ico" href="images/seven-two.jpeg" rel="shortcut icon" />
+		<link type="image/ico" href="images/suits.png" rel="shortcut icon" />
 		<title>Zac Laudick</title>
 	</head>
 	<body>
@@ -41,6 +41,7 @@
 				<li>Dallas, TX</li>
 				<li>Rosarito, Mexico</li>
 				<li>Napa, CA</li>
+				<img src="images/rosarito.jpg" alt="rosarito" width="750" height="563" />
 			</ul>
 		</main>
 	</body>
